@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/KushalP47/KushalP47/blob/main/desktop-wallpaper-purple-artistic-landscape-digital-art-sunset-artist-and-background.jpg" height="50%"/>
+<img src="https://cdna.artstation.com/p/assets/images/images/019/241/598/medium/sabbir-ahmed-01.jpg?1562648853"/>
 </p>
 
 ## Hi there, I'm [Kushal!](https://github.com/KushalP47/) 👋
