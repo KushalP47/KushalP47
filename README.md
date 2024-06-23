@@ -25,4 +25,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=KushalP47&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KushalP47&theme=dark&hide_border=false)<br/>
 
-![](https://komarev.com/ghpvc/?username=KushalP47&color=blueviolet)
+# 📊 Competitive Programming Stats:
+<p width="100%">
+<img width="50%" height="275em" src="https://codeforces-readme-stats.vercel.app/api/card?username=kushal_p_47" />
+<img height="275em" src="https://leetcard.jacoblin.cool/Kushal47?theme=dark,nord&ext=contest" />
+<!-- <img height="280em" src="https://raw.githubusercontent.com/kushal_p_47/cf-stats/main/output/light_card.svg" /> -->
+</p>
+
+![](https://komarev.com/ghpvc/?username=KushalP47&color=blueviolet&style=for-the-badge)
