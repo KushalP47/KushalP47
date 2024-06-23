@@ -1,7 +1,5 @@
-## Hi there, I'm [Kushal!](https://github.com/KushalP47/) 👋
-
-<p align="center">
-<img widht="100%" src="https://cdn.vectorstock.com/i/1000v/41/35/mars-purple-space-landscape-with-large-planets-vector-37444135.jpg"/>
+<p>
+<img src="github-header-image.png"/>
 </p>
 
 ## 🌐 Socials:
