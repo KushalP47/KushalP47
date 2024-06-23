@@ -1,7 +1,7 @@
 ## Hi there, I'm [Kushal!](https://github.com/KushalP47/) 👋
 
 <p align="center">
-<img src="https://cdna.artstation.com/p/assets/images/images/019/241/598/medium/sabbir-ahmed-01.jpg?1562648853"/>
+<img widht="100%" src="https://cdn.vectorstock.com/i/1000v/41/35/mars-purple-space-landscape-with-large-planets-vector-37444135.jpg"/>
 </p>
 
 ## 🌐 Socials:
