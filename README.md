@@ -29,10 +29,12 @@
    </tr>
  </table> -->
  <img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushalP47&theme=gruvbox" width="100%">
- <p width="100%" align="center">
- <img height="250em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KushalP47&theme=monokai">
- <img height="250em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KushalP47&theme=monokai">
- </p>
+ <table width="100%" align="center">
+     <tr>
+ <td><img height="250em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KushalP47&theme=monokai"></td>
+ <td><img height="250em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KushalP47&theme=monokai"></td>
+         </tr>
+ </table>
 <!-- <table align="center">
   <tr>
     <td><img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushalP47&theme=gruvbox" width="100%"></td>
