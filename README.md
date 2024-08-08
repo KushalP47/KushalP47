@@ -22,19 +22,19 @@
 
 # 📊 GitHub Stats:
 
-<!-- <table>
+<table>
     <tr>
      <td><img height="250em" src="https://github-readme-stats.vercel.app/api?username=KushalP47&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /></td>
     <td><img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=KushalP47&theme=dark&hide_border=false" /></td>
    </tr>
- </table> -->
- <img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushalP47&theme=gruvbox" width="100%">
+ </table>
+<!-- <img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushalP47&theme=gruvbox" width="100%">
  <table width="100%" align="center">
      <tr>
  <td><img height="250em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KushalP47&theme=monokai"></td>
  <td><img height="250em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KushalP47&theme=monokai"></td>
          </tr>
- </table>
+ </table> -- !>
 <!-- <table align="center">
   <tr>
     <td><img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushalP47&theme=gruvbox" width="100%"></td>
