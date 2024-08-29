@@ -24,7 +24,7 @@
 
 <table>
     <tr>
-     <td><img height="250em" src="https://github-readme-stats.vercel.app/api?username=KushalP47&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /></td>
+     <td><img height="250em" src="https://github-readme-stats.vercel.app/api?username=KushalP47&theme=dark&hide_border=false&include_all_commits=true" /></td>
     <td><img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=KushalP47&theme=dark&hide_border=false" /></td>
    </tr>
  </table>
